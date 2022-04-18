@@ -1,3 +1,5 @@
+//3. Crie um objeto JSON que abriga todas as operações do exercício 2.
+
 var json = {
   soma: (firstValue, secondValue) => {return firstValue + secondValue},
   subtracao: (firstValue, secondValue) => {return firstValue - secondValue},

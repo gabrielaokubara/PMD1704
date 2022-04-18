@@ -1,3 +1,5 @@
+//2. Refaça o exercício 1 usando arrow functions.
+
 const soma = (firstValue, secondValue) => {
   return firstValue + secondValue;
 }
